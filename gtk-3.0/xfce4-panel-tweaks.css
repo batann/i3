@@ -1,0 +1,7 @@
+#pulseaudio-button * {
+-gtk-icon-transform: scale(.9);
+} 
+
+#xfce4-power-manager-plugin * {
+-gtk-icon-transform: scale(0.9);
+}
